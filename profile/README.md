@@ -9,7 +9,7 @@ Unitree satış · kurulum · operatör eğitimi · Türkçe SDK / Ar-Ge desteğ
 
 [🌐 Unitree Türkiye Partneri](https://www.robotlar.org/tr/unitree-turkiye-partneri) ·
 [📚 Açık Kaynak Rehberleri](https://www.robotlar.org/unitree/acik-kaynak) ·
-[📧 info@robotlar.org](mailto:info@robotlar.org)
+[📧 robot@robotlar.org](mailto:robot@robotlar.org)
 
 </div>
 
