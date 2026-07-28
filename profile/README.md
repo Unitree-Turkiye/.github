@@ -64,6 +64,15 @@ Unitree'nin açık kaynak projeleri için Türkçe kurulum, örnek kod ve Türki
   * [Unitree ROS2 Türkçe](https://github.com/Unitree-Turkiye/unitree-ros2-turkce) — ROS 2 entegrasyonu
   * [Unitree VLA Türkçe](https://github.com/Unitree-Turkiye/unitree-vla-turkce) — Görme-Dil-Aksiyon modeli
 
+### 🤖 Model Depoları (Özellikler · SDK · Fiyat)
+
+  * [Unitree Go2](https://github.com/Unitree-Turkiye/unitree-go2-turkce) — kompakt dört ayaklı
+  * [Unitree Go2-W](https://github.com/Unitree-Turkiye/unitree-go2-w-turkce) — tekerlekli-hibrit
+  * [Unitree B2](https://github.com/Unitree-Turkiye/unitree-b2-turkce) — endüstriyel dört ayaklı
+  * [Unitree A2](https://github.com/Unitree-Turkiye/unitree-a2-turkce) — ağır sınıf dört ayaklı
+  * [Unitree G1](https://github.com/Unitree-Turkiye/unitree-g1-turkce) — insansı robot
+  * [Unitree H2](https://github.com/Unitree-Turkiye/unitree-h2) — tam boy insansı + H2-Core
+
 -----
 
 <div align="center">
