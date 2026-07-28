@@ -55,6 +55,15 @@ Unitree'nin açık kaynak projeleri için Türkçe kurulum, örnek kod ve Türki
 
 > 📖 **Tüm Türkçe Unitree geliştirici içeriği:** [robotlar.org/unitree/acik-kaynak](https://www.robotlar.org/unitree/acik-kaynak)
 
+### 🇹🇷 Türkçe Rehber Depoları
+
+  * [Unitree SDK2 Türkçe](https://github.com/Unitree-Turkiye/unitree-sdk2-turkce) — kurulum, DDS, örnek kod
+  * [Unitree Teleoperasyon Türkçe](https://github.com/Unitree-Turkiye/unitree-teleoperasyon-turkce) — G1 XR teleop + veri toplama
+  * [Unitree RL Gym Türkçe](https://github.com/Unitree-Turkiye/unitree-rl-gym-turkce) — pekiştirmeli öğrenme + sim-to-real
+  * [Unitree MuJoCo Türkçe](https://github.com/Unitree-Turkiye/unitree-mujoco-turkce) — simülasyon + sim-to-real köprü
+  * [Unitree ROS2 Türkçe](https://github.com/Unitree-Turkiye/unitree-ros2-turkce) — ROS 2 entegrasyonu
+  * [Unitree VLA Türkçe](https://github.com/Unitree-Turkiye/unitree-vla-turkce) — Görme-Dil-Aksiyon modeli
+
 -----
 
 <div align="center">
