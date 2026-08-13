@@ -67,6 +67,7 @@ Unitree'nin açık kaynak projeleri için Türkçe kurulum, örnek kod ve Türki
   * [Unitree ROS2 Türkçe](https://github.com/Unitree-Turkiye/unitree-ros2-turkce) — ROS 2 entegrasyonu
   * [Unitree VLA Türkçe](https://github.com/Unitree-Turkiye/unitree-vla-turkce) — Görme-Dil-Aksiyon modeli
   * [Unitree Endüstriyel Navigasyon Türkçe](https://github.com/Unitree-Turkiye/unitree-endustriyel-navigasyon-turkce) — SLAM haritalama, topolojik rota, otonom denetim
+  * [Unitree URDF / MJCF / USD Dizini](https://github.com/Unitree-Turkiye/unitree-urdf-mjcf-usd) — hangi robot için hangi simülasyon model dosyası (26 klasör)
   * [Unitree SLAM Demoları Türkçe](https://github.com/Unitree-Turkiye/unitree-slam-demolari-turkce) — çok-kat, asansör, relocalization Python demoları
   * [Unitree Motor Hata Ayıklama Türkçe](https://github.com/Unitree-Turkiye/unitree-motor-debug-turkce) — GO-M8010-6 motor teşhis aracı
 
