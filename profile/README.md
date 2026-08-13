@@ -54,6 +54,7 @@ Unitree'nin açık kaynak projeleri için Türkçe kurulum, örnek kod ve Türki
   * **XR Teleoperasyon** (`xr_teleoperate` / `unitree_lerobot`) → [Türkçe G1 Teleoperasyon Rehberi](https://www.robotlar.org/unitree/g1-teleoperasyon)
   * **VLA / Embodied AI** (`unifolm-vla`) → [Türkçe Pelican-VLA](https://www.robotlar.org/unitree/pelican-vla)
   * **WebRTC Bağlantısı** (Go2 / G1) → [Türkçe WebRTC Rehberi](https://www.robotlar.org/unitree/go2-g1-webrtc-baglantisi)
+  * **Endüstriyel Navigasyon** (SLAM + otonom denetim) → [Türkçe Navigasyon Dokümantasyonu](https://www.robotlar.org/unitree/endustriyel-navigasyon)
 
 > 📖 **Tüm Türkçe Unitree geliştirici içeriği:** [robotlar.org/unitree/acik-kaynak](https://www.robotlar.org/unitree/acik-kaynak)
 
@@ -65,6 +66,9 @@ Unitree'nin açık kaynak projeleri için Türkçe kurulum, örnek kod ve Türki
   * [Unitree MuJoCo Türkçe](https://github.com/Unitree-Turkiye/unitree-mujoco-turkce) — simülasyon + sim-to-real köprü
   * [Unitree ROS2 Türkçe](https://github.com/Unitree-Turkiye/unitree-ros2-turkce) — ROS 2 entegrasyonu
   * [Unitree VLA Türkçe](https://github.com/Unitree-Turkiye/unitree-vla-turkce) — Görme-Dil-Aksiyon modeli
+  * [Unitree Endüstriyel Navigasyon Türkçe](https://github.com/Unitree-Turkiye/unitree-endustriyel-navigasyon-turkce) — SLAM haritalama, topolojik rota, otonom denetim
+  * [Unitree SLAM Demoları Türkçe](https://github.com/Unitree-Turkiye/unitree-slam-demolari-turkce) — çok-kat, asansör, relocalization Python demoları
+  * [Unitree Motor Hata Ayıklama Türkçe](https://github.com/Unitree-Turkiye/unitree-motor-debug-turkce) — GO-M8010-6 motor teşhis aracı
 
 ### 🤖 Model Depoları (Özellikler · SDK · Fiyat)
 
