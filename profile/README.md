@@ -16,77 +16,66 @@ Unitree satış · kurulum · operatör eğitimi · Türkçe SDK / Ar-Ge desteğ
 
 ---
 
+## 📦 Türkçe Depo Dizini
+
+Unitree'nin resmi yazılım ve donanım ekosisteminin Türkçe teknik karşılığı. Her depo, ilgili robotlar.org rehberine bağlanır.
+
+### 🤖 Robot Modelleri
+
+| Depo | Konu |
+|---|---|
+| [unitree-g1-turkce](https://github.com/Unitree-Turkiye/unitree-g1-turkce) | G1 insansı robot — özellikler, SDK, fiyat |
+| [unitree-h2](https://github.com/Unitree-Turkiye/unitree-h2) | H2 insansı robot + H2-Core Intelligence |
+| [unitree-go2-turkce](https://github.com/Unitree-Turkiye/unitree-go2-turkce) | Go2 dört ayaklı |
+| [unitree-go2-w-turkce](https://github.com/Unitree-Turkiye/unitree-go2-w-turkce) | Go2-W tekerlekli hibrit |
+| [unitree-b2-turkce](https://github.com/Unitree-Turkiye/unitree-b2-turkce) | B2 endüstriyel dört ayaklı |
+| [unitree-a2-turkce](https://github.com/Unitree-Turkiye/unitree-a2-turkce) | A2 ağır sınıf dört ayaklı |
+
+### 🛠 SDK ve Geliştirme
+
+| Depo | Konu |
+|---|---|
+| [unitree-sdk2-turkce](https://github.com/Unitree-Turkiye/unitree-sdk2-turkce) | SDK2 kurulum, DDS yapılandırma, örnek kod |
+| [unitree_sdk2_python](https://github.com/Unitree-Turkiye/unitree_sdk2_python) | Python SDK — Türkçe geliştirici notları |
+| [unitree-ros2-turkce](https://github.com/Unitree-Turkiye/unitree-ros2-turkce) | ROS2 entegrasyonu |
+| [unitree-mujoco-turkce](https://github.com/Unitree-Turkiye/unitree-mujoco-turkce) | MuJoCo simülatörü, sim-to-real |
+| [unitree-urdf-mjcf-usd](https://github.com/Unitree-Turkiye/unitree-urdf-mjcf-usd) | Hangi robot için hangi URDF/MJCF/USD dosyası |
+
+### 🧠 Yapay Zekâ ve Öğrenme
+
+| Depo | Konu |
+|---|---|
+| [unitree-g1-isaac-groot-turkce](https://github.com/Unitree-Turkiye/unitree-g1-isaac-groot-turkce) | **G1 + NVIDIA Isaac GR00T** — uçtan uca geliştirme akışı |
+| [unitree-lerobot-turkce](https://github.com/Unitree-Turkiye/unitree-lerobot-turkce) | **unitree_lerobot** — veri toplama ve politika eğitimi |
+| [unitree-vla-turkce](https://github.com/Unitree-Turkiye/unitree-vla-turkce) | VLA (unifolm-vla) görme-dil-aksiyon |
+| [unifolm-world-model-action](https://github.com/Unitree-Turkiye/unifolm-world-model-action) | UnifoLM-WMA-0 dünya modeli–eylem mimarisi |
+| [unitree-rl-gym-turkce](https://github.com/Unitree-Turkiye/unitree-rl-gym-turkce) | RL Gym pekiştirmeli öğrenme |
+| [unitree_rl_gym](https://github.com/Unitree-Turkiye/unitree_rl_gym) | RL GYM çevirisi — Isaac Gym → MuJoCo → Sim2Real |
+
+### 🦾 Donanım ve Uç İşlevciler
+
+| Depo | Konu |
+|---|---|
+| [unitree-hunerli-el-turkce](https://github.com/Unitree-Turkiye/unitree-hunerli-el-turkce) | **Dex5-1 / Dex3-1 / Dex1-1** — hünerli el ve tutucu seçimi |
+| [unitree-teleoperasyon-turkce](https://github.com/Unitree-Turkiye/unitree-teleoperasyon-turkce) | G1 XR teleoperasyon (xr_teleoperate) |
+| [unitree-motor-debug-turkce](https://github.com/Unitree-Turkiye/unitree-motor-debug-turkce) | GO-M8010-6 motor hata ayıklama |
+| [Unitree-Motor-Assistant](https://github.com/Unitree-Turkiye/Unitree-Motor-Assistant) | Motor yardımcı aracı |
+
+### 🗺 Navigasyon ve SLAM
+
+| Depo | Konu |
+|---|---|
+| [unitree-endustriyel-navigasyon-turkce](https://github.com/Unitree-Turkiye/unitree-endustriyel-navigasyon-turkce) | SLAM haritalama, topolojik rota, otonom denetim |
+| [unitree-slam-demolari-turkce](https://github.com/Unitree-Turkiye/unitree-slam-demolari-turkce) | Çok katlı, asansörlü, relocalization demoları |
+
+---
+
+## 🇹🇷 Türkiye'de Unitree
+
+Robot tedariki, gümrükleme, kurulum, operatör eğitimi ve Türkçe SDK desteği tek elden yürütülür. 81 ilde teknik servis.
+
+- **[Unitree robot modelleri ve fiyatları →](https://www.robotlar.org/tr/unitree)**
+- [İnsansı robotlar →](https://www.robotlar.org/tr/insansi-robotlar) · [Köpek robotlar →](https://www.robotlar.org/tr/kopek-robotlar)
+- [Açık kaynak rehberleri →](https://www.robotlar.org/tr/acik-kaynak)
+
 > ℹ️ Unitree Robotics'in Türkiye resmi distribütörü **[Robotlar.org](https://www.robotlar.org/tr/unitree-turkiye-partneri)** tarafından yürütülür. *(Üretici: Unitree Robotics)*
-
-### 🚀 Unitree Robot Modelleri & Projeler
-
-  * [**Unitree Türkiye — Tüm Modeller, Fiyatlar & Teknik Destek**](https://www.robotlar.org/tr/unitree)
-  * [Unitree Go2](https://www.robotlar.org/tr/kopek-robotlar/unitree-go2)
-  * [Unitree B2](https://www.robotlar.org/tr/kopek-robotlar/unitree-b2)
-  * [Unitree H2 (İnsansı Robot)](https://www.robotlar.org/tr/insansi-robotlar/unitree-h2)
-  * [Unitree G1 (AI Avatar İnsansı)](https://www.robotlar.org/tr/insansi-robotlar/unitree-g1)
-  * [Unitree Robotics Genel](https://www.robotlar.org/tr/unitree-robotics)
-  * [İnsansı Robotlar](https://www.robotlar.org/tr/insansi-robotlar) · [Dört Ayaklı Robotlar](https://www.robotlar.org/tr/kopek-robotlar)
-  * [Unitree Açık Kaynak Merkezi](https://www.robotlar.org/unitree/acik-kaynak)
-
-### 💰 Unitree Fiyat Listeleri & Karşılaştırmalar
-
-  * [Unitree Go2 Fiyat](https://www.robotlar.org/tr/fiyat/unitree-go2-fiyat)
-  * [Robot Köpek Fiyatları](https://www.robotlar.org/tr/fiyat/robot-kopek-fiyatlari)
-  * [Unitree H2 vs Tesla Optimus](https://www.robotlar.org/tr/karsilastirma/unitree-h2-vs-tesla-optimus)
-  * [Unitree G1 vs Figure 02](https://www.robotlar.org/tr/karsilastirma/unitree-g1-vs-figure-02)
-  * [Unitree H2 vs Figure 02](https://www.robotlar.org/tr/karsilastirma/unitree-h2-vs-figure-02)
-  * [Tüm Robot Karşılaştırmaları](https://www.robotlar.org/unitree/karsilastirma)
-
-### 📚 Unitree Teknik Rehberler
-
-  * [Unitree G1 AI Geliştirme Rehberi](https://www.robotlar.org/tr/rehber/unitree-g1-ai-gelistirme-rehberi)
-  * [H2 Fabrika Otomasyon Rehberi](https://www.robotlar.org/tr/rehber/insansi-robot-fabrika-otomasyonu-rehberi)
-  * [Robot Köpek Teknik Rehberi](https://www.robotlar.org/tr/rehber/robot-kopek)
-
-### 🧩 Unitree Açık Kaynak Ekosistemi — *Türkçe Geliştirici Rehberleri*
-
-Unitree'nin açık kaynak projeleri için Türkçe kurulum, örnek kod ve Türkiye donanımıyla test rehberleri:
-
-  * **Unitree SDK** (`unitree_sdk2` / `unitree_sdk2_python`) → [Türkçe SDK Rehberi](https://www.robotlar.org/unitree/sdk-rehberi)
-  * **Go2 SDK Geliştirme** → [Türkçe Go2 SDK Rehberi](https://www.robotlar.org/unitree/go2-sdk-gelistirme-rehberi)
-  * **Lokomosyon RL** (`unitree_rl_gym` / `rl_lab` / `rl_mjlab`) → [Türkçe RL Gym Rehberi](https://www.robotlar.org/unitree/rl-gym)
-  * **XR Teleoperasyon** (`xr_teleoperate` / `unitree_lerobot`) → [Türkçe G1 Teleoperasyon Rehberi](https://www.robotlar.org/unitree/g1-teleoperasyon)
-  * **VLA / Embodied AI** (`unifolm-vla`) → [Türkçe Pelican-VLA](https://www.robotlar.org/unitree/pelican-vla)
-  * **WebRTC Bağlantısı** (Go2 / G1) → [Türkçe WebRTC Rehberi](https://www.robotlar.org/unitree/go2-g1-webrtc-baglantisi)
-  * **Endüstriyel Navigasyon** (SLAM + otonom denetim) → [Türkçe Navigasyon Dokümantasyonu](https://www.robotlar.org/unitree/endustriyel-navigasyon)
-
-> 📖 **Tüm Türkçe Unitree geliştirici içeriği:** [robotlar.org/unitree/acik-kaynak](https://www.robotlar.org/unitree/acik-kaynak)
-
-### 🇹🇷 Türkçe Rehber Depoları
-
-  * [Unitree SDK2 Türkçe](https://github.com/Unitree-Turkiye/unitree-sdk2-turkce) — kurulum, DDS, örnek kod
-  * [Unitree Teleoperasyon Türkçe](https://github.com/Unitree-Turkiye/unitree-teleoperasyon-turkce) — G1 XR teleop + veri toplama
-  * [Unitree RL Gym Türkçe](https://github.com/Unitree-Turkiye/unitree-rl-gym-turkce) — pekiştirmeli öğrenme + sim-to-real
-  * [Unitree MuJoCo Türkçe](https://github.com/Unitree-Turkiye/unitree-mujoco-turkce) — simülasyon + sim-to-real köprü
-  * [Unitree ROS2 Türkçe](https://github.com/Unitree-Turkiye/unitree-ros2-turkce) — ROS 2 entegrasyonu
-  * [Unitree VLA Türkçe](https://github.com/Unitree-Turkiye/unitree-vla-turkce) — Görme-Dil-Aksiyon modeli
-  * [Unitree Endüstriyel Navigasyon Türkçe](https://github.com/Unitree-Turkiye/unitree-endustriyel-navigasyon-turkce) — SLAM haritalama, topolojik rota, otonom denetim
-  * [Unitree URDF / MJCF / USD Dizini](https://github.com/Unitree-Turkiye/unitree-urdf-mjcf-usd) — hangi robot için hangi simülasyon model dosyası (26 klasör)
-  * [Unitree SLAM Demoları Türkçe](https://github.com/Unitree-Turkiye/unitree-slam-demolari-turkce) — çok-kat, asansör, relocalization Python demoları
-  * [Unitree Motor Hata Ayıklama Türkçe](https://github.com/Unitree-Turkiye/unitree-motor-debug-turkce) — GO-M8010-6 motor teşhis aracı
-
-### 🤖 Model Depoları (Özellikler · SDK · Fiyat)
-
-  * [Unitree Go2](https://github.com/Unitree-Turkiye/unitree-go2-turkce) — kompakt dört ayaklı
-  * [Unitree Go2-W](https://github.com/Unitree-Turkiye/unitree-go2-w-turkce) — tekerlekli-hibrit
-  * [Unitree B2](https://github.com/Unitree-Turkiye/unitree-b2-turkce) — endüstriyel dört ayaklı
-  * [Unitree A2](https://github.com/Unitree-Turkiye/unitree-a2-turkce) — ağır sınıf dört ayaklı
-  * [Unitree G1](https://github.com/Unitree-Turkiye/unitree-g1-turkce) — insansı robot
-  * [Unitree H2](https://github.com/Unitree-Turkiye/unitree-h2) — tam boy insansı + H2-Core
-
------
-
-<div align="center">
-
-**Hızlı Erişim:** [Unitree Türkiye](https://www.robotlar.org/tr/unitree-robotics) · [Unitree Robotları](https://www.robotlar.org/tr/robotlar) · [Unitree Karşılaştırma](https://www.robotlar.org/unitree/karsilastirma) · [Unitree SDK Rehberi](https://www.robotlar.org/unitree/sdk-rehberi) · [Unitree Açık Kaynak](https://www.robotlar.org/unitree/acik-kaynak)
-
-© 2026 **www.robotlar.org** — Unitree Robotics Türkiye Resmi Distribütörü
-*Türkiye'de robotik iş gücü Robotlar.org'dan başlar.*
-
-</div>
